@@ -1,0 +1,13 @@
+.center {
+  text-align: center;
+  color: blue;
+}
+body {
+  background-color: yellow
+}
+.dog {
+  image-orientation: center;
+}
+.marqee {
+  color: green
+}
